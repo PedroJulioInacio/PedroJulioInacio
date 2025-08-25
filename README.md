@@ -19,4 +19,8 @@ Languages ​​and Tools:
 <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/853ed65c-ba80-4acd-952b-4f6057b87306"/> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/9ab83e81-7cf6-42b8-9846-16b75c0b11fa" /> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b7de9343-4aed-4436-a75c-f750a50b0ca2" /> <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/d0e69090-4d7f-45f2-96cf-b839dbe1c027" />
 </p>
 <br>
+    [![PedroGitHub stats](https://github-readme-stats.vercel.app/api?username=PedroJulioInacio)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+     
+
+         
